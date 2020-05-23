@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Projects_in_c\aud12\concat\main.c(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects_in_c\aud12\concat\main.c(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+  concat.vcxproj -> D:\Projects_in_c\aud12\Debug\concat.exe
